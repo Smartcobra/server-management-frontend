@@ -7,5 +7,5 @@ export interface Server{
     memory:string;
     type:string;
     imageUrl:string;
-    status:Status;
+    status: Status;
 }
